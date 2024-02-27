@@ -1,2 +1,2 @@
 # Amazon_UI-Clone
-Food Delivery Website using HTML and CSS 
+Amazon UI Cone Website using HTML and CSS 
